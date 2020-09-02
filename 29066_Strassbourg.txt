@@ -49,5 +49,3 @@
 2a01:7a7::/32,FR,FR-GES,Strassbourg,
 2a0a:53c0::/48,FR,FR-GES,Strassbourg,
 2a0e:d601:7220::/48,FR,FR-GES,Strassbourg,
-45.151.105.0/24,FR,FR-GES,Strassbourg,
-45.151.106.0/24,FR,FR-GES,Strassbourg,
