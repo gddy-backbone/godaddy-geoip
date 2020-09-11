@@ -440,6 +440,7 @@
 92.204.40.0/21,FR,FR-GES,Strassbourg,
 92.204.40.0/24,FR,FR-GES,Strassbourg,
 92.204.41.0/24,FR,FR-GES,Strassbourg,
+92.204.42.0/24,FR,FR-GES,Strassbourg,
 92.204.48.0/20,FR,FR-GES,Strassbourg,
 92.204.53.0/24,FR,FR-GES,Strassbourg,
 92.204.54.0/24,FR,FR-GES,Strassbourg,

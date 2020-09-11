@@ -3,3 +3,5 @@
 104.244.168.0/21,US,US-CA,Los Angeles,
 162.211.120.0/21,US,US-CA,Los Angeles,
 192.155.96.0/21,US,US-CA,Los Angeles,
+151.106.32.0/20,FR,FR-HDF,Roubaix,
+92.204.128.0/20,US,US-VA,Warrenton,
