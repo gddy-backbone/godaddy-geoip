@@ -1,4 +1,5 @@
 50.63.4.0/23,US,US-VA,Ashburn,
+97.74.72.0/22,US,US-VA,Ashburn,
 97.74.76.0/24,US,US-VA,Ashburn,
 198.71.244.0/22,US,US-VA,Ashburn,
 198.71.248.0/22,US,US-VA,Ashburn,

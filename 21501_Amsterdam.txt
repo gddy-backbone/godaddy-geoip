@@ -14,6 +14,7 @@
 188.121.60.0/22,NL,NL-NH,Amsterdam,
 160.153.12.0/24,NL,NL-NH,Amsterdam,
 160.153.13.0/24,NL,NL-NH,Amsterdam,
+160.153.15.0/24,NL,NL-NH,Amsterdam,
 160.153.28.0/22,NL,NL-NH,Amsterdam,
 188.121.53.0/24,NL,NL-NH,Amsterdam,
 37.148.200.0/22,NL,NL-NH,Amsterdam,
