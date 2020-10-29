@@ -127,6 +127,7 @@
 62.75.253.0/24,FR,FR-GES,Strasbourg,
 62.138.0.0/19,FR,FR-GES,Strasbourg,
 62.138.0.0/24,FR,FR-GES,Strasbourg,
+62.138.1.0/24,FR,FR-GES,Strasbourg,
 62.138.2.0/24,FR,FR-GES,Strasbourg,
 62.138.3.0/24,FR,FR-GES,Strasbourg,
 62.138.4.0/24,FR,FR-GES,Strasbourg,
