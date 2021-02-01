@@ -20,3 +20,4 @@
 2001:678:4::/48,DE,DE-HE,Frankfurt,
 2001:678:98::/48,DE,DE-HE,Frankfurt,
 2a01:7a0::/29,DE,DE-HE,Frankfurt,
+2a0f:4a00::/29,DE,DE-HE,Frankfurt,
