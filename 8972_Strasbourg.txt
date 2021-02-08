@@ -646,7 +646,6 @@
 178.77.96.0/21,FR,FR-GES,Strasbourg,
 185.21.102.0/24,FR,FR-GES,Strasbourg,
 185.201.16.0/24,FR,FR-GES,Strasbourg,
-185.245.102.0/24,FR,FR-GES,Strasbourg,
 188.93.8.0/21,FR,FR-GES,Strasbourg,
 188.93.8.0/24,FR,FR-GES,Strasbourg,
 188.93.10.0/24,FR,FR-GES,Strasbourg,
