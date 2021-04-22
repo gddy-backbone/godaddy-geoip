@@ -5,6 +5,8 @@
 109.68.70.0/24,DE,DE-HE,Frankfurt,
 146.0.224.0/19,DE,DE-HE,Frankfurt,
 185.19.216.0/22,DE,DE-HE,Frankfurt,
+185.28.194.0/24,DE,DE-HE,Frankfurt,
+185.38.108.0/24,DE,DE-HE,Frankfurt,
 185.174.234.0/24,DE,DE-HE,Frankfurt,
 185.244.80.0/23,DE,DE-HE,Frankfurt,
 193.151.88.0/24,DE,DE-HE,Frankfurt,
@@ -19,3 +21,4 @@
 2001:678:98::/48,DE,DE-HE,Frankfurt,
 2a01:7a0::/29,DE,DE-HE,Frankfurt,
 2a0f:4a00::/29,DE,DE-HE,Frankfurt,
+2a10:e380::/32,DE,DE-HE,Frankfurt,
