@@ -104,6 +104,7 @@
 203.124.123.0/24,SG,SG-05,Singapore,
 208.109.8.0/22,SG,SG-05,Singapore,
 208.109.12.0/22,SG,SG-05,Singapore,
+97.74.80.0/21,SG,SG-05,Singapore,
 148.72.220.0/22,SG,SG-05,Singapore,
 148.72.244.0/22,SG,SG-05,Singapore,
 184.168.96.0/19,SG,SG-05,Singapore,
