@@ -152,6 +152,7 @@
 188.93.8.0/21,FR,FR-GES,Strasbourg,
 2a00:1158::/32,FR,FR-GES,Strasbourg,
 104.244.168.0/21,US,US-FL,Miami,
+103.244.112.0/22,CN,CN-HK,Hong Kong,
 104.244.168.0/21,US,US-CA,Los Angeles,
 5.35.231.0/24,DE,DE-NW,Cologne,
 37.200.96.0/21,DE,DE-NW,Cologne,
@@ -306,4 +307,5 @@
 185.21.100.0/22,DE,DE-NW,Cologne,
 188.93.8.0/21,DE,DE-NW,Cologne,
 2a00:1158::/32,DE,DE-NW,Cologne,
+103.244.112.0/22,SG,SG-05,Singapore,
 5.35.231.0/24,DE,DE-NW,Cologne,
