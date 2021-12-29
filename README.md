@@ -1,4 +1,4 @@
-# output-geoip
+# godaddy-geoip
 
 `GDDY-complete.txt` contains a formatted list of prefixes used by GoDaddy
 
