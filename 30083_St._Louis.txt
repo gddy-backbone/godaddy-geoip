@@ -52,3 +52,4 @@
 209.126.120.0/24,US,US-MO,St. Louis,
 209.126.124.0/24,US,US-MO,St. Louis,
 209.239.112.0/20,US,US-MO,St. Louis,
+2605:de00::/32,US,US-MO,St. Louis,

@@ -1251,6 +1251,7 @@
 209.126.120.0/24,US,US-MO,St. Louis,
 209.126.124.0/24,US,US-MO,St. Louis,
 209.239.112.0/20,US,US-MO,St. Louis,
+2605:de00::/32,US,US-MO,St. Louis,
 2.56.102.0/24,DE,FR-GES,Strasbourg,
 2.56.103.0/24,DE,FR-GES,Strasbourg,
 2.59.22.0/23,DE,FR-GES,Strasbourg,
