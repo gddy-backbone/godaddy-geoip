@@ -308,4 +308,3 @@
 2a00:1158::/32,DE,DE-NW,Cologne,
 185.28.194.0/24,DE,DE-HE,Frankfurt,
 185.38.108.0/24,DE,DE-HE,Frankfurt,
-5.35.231.0/24,DE,DE-NW,Cologne,
