@@ -13,7 +13,6 @@
 193.151.90.0/24,DE,DE-HE,Frankfurt,
 193.151.91.0/24,DE,DE-HE,Frankfurt,
 193.200.150.0/24,DE,DE-HE,Frankfurt,
-194.0.21.0/24,DE,DE-HE,Frankfurt,
 195.69.240.0/22,DE,DE-HE,Frankfurt,
 195.182.58.0/24,DE,DE-HE,Frankfurt,
 2a01:7a0::/29,DE,DE-HE,Frankfurt,
