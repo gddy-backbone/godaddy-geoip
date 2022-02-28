@@ -1,2 +1,0 @@
-2a01:9cc0::/32,GB,GB-SLG,Slough,
-2a01:9cc0:40::/42,GB,GB-SLG,Slough,
