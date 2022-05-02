@@ -1,5 +1,4 @@
 50.30.32.0/20,US,US-MO,St. Louis,
-50.30.32.0/24,US,US-MO,St. Louis,
 50.30.37.0/24,US,US-MO,St. Louis,
 69.64.32.0/19,US,US-MO,St. Louis,
 69.64.41.0/24,US,US-MO,St. Louis,
