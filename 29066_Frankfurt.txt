@@ -2,7 +2,6 @@
 85.195.64.0/18,DE,DE-HE,Frankfurt,
 92.204.200.0/21,DE,DE-HE,Frankfurt,
 146.0.224.0/19,DE,DE-HE,Frankfurt,
-155.193.0.0/23,DE,DE-HE,Frankfurt,
 185.19.216.0/22,DE,DE-HE,Frankfurt,
 185.28.194.0/24,DE,DE-HE,Frankfurt,
 185.38.108.0/24,DE,DE-HE,Frankfurt,
