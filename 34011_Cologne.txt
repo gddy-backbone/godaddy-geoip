@@ -36,6 +36,7 @@
 92.204.33.0/24,DE,DE-NW,Cologne,
 92.204.37.0/24,DE,DE-NW,Cologne,
 92.204.38.0/24,DE,DE-NW,Cologne,
+92.204.39.0/24,DE,DE-NW,Cologne,
 93.180.152.0/21,DE,DE-NW,Cologne,
 93.180.152.0/24,DE,DE-NW,Cologne,
 93.180.154.0/24,DE,DE-NW,Cologne,
