@@ -455,6 +455,7 @@
 92.205.64.0/20,FR,FR-GES,Strasbourg,
 92.205.64.0/24,FR,FR-GES,Strasbourg,
 92.205.65.0/24,FR,FR-GES,Strasbourg,
+92.205.66.0/24,FR,FR-GES,Strasbourg,
 93.92.144.0/23,FR,FR-GES,Strasbourg,
 93.92.146.0/24,FR,FR-GES,Strasbourg,
 93.92.147.0/24,FR,FR-GES,Strasbourg,
