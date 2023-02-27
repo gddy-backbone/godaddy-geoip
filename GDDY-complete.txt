@@ -817,7 +817,6 @@
 195.225.104.0/23,FR,FR-GES,Strasbourg,
 195.225.106.0/23,FR,FR-GES,Strasbourg,
 212.40.163.0/24,FR,FR-GES,Strasbourg,
-212.48.72.0/24,FR,FR-GES,Strasbourg,
 212.48.74.0/24,FR,FR-GES,Strasbourg,
 212.48.82.0/23,FR,FR-GES,Strasbourg,
 212.48.90.0/24,FR,FR-GES,Strasbourg,
