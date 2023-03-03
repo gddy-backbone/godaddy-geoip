@@ -982,6 +982,7 @@
 2001:1520:101::/48,DE,DE-NW,Cologne,
 2a00:1158:2::/48,DE,DE-NW,Cologne,
 2a00:1158:3::/48,DE,DE-NW,Cologne,
+2a00:1168:101::/48,DE,DE-NW,Cologne,
 103.66.180.0/22,SG,SG-05,Singapore,
 103.244.112.0/22,SG,SG-05,Singapore,
 2406:f380::/32,SG,SG-05,Singapore,
