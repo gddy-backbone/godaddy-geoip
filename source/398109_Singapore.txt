@@ -1,3 +1,0 @@
-103.66.180.0/22,SG,SG-05,Singapore,
-103.244.112.0/22,SG,SG-05,Singapore,
-2406:f380::/32,SG,SG-05,Singapore,
