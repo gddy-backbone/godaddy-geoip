@@ -1,4 +1,4 @@
 70.32.64.0/23,US,US-VA,Ashburn,
-216.70.64.0/21,US,US-VA,Ashburn,
+216.70.64.0/22,US,US-VA,Ashburn,
 216.70.64.0/23,US,US-VA,Ashburn,
 216.70.66.0/24,US,US-VA,Ashburn,
