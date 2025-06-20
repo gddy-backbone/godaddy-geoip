@@ -1,5 +1,7 @@
 37.148.200.0/21,FR,FR-GES,Strasbourg,
 46.252.192.0/20,FR,FR-GES,Strasbourg,
+92.204.16.0/21,FR,FR-GES,Strasbourg,
+92.204.24.0/21,FR,FR-GES,Strasbourg,
 92.204.64.0/21,FR,FR-GES,Strasbourg,
 92.204.80.0/23,FR,FR-GES,Strasbourg,
 92.204.82.0/23,FR,FR-GES,Strasbourg,

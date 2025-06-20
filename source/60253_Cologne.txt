@@ -8,4 +8,3 @@
 2607:f208:df07::/48,DE,DE-NW,Cologne,
 2607:f208:df0d::/48,DE,DE-NW,Cologne,
 2a00:116a:100::/40,DE,DE-NW,Cologne,
-2a00:116a:200::/40,DE,DE-NW,Cologne,
